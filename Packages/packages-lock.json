@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.developerharon.haron": {
+      "version": "https://github.com/developerharon/UnityPackagesDemo.git#upm_branch",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "fb46e0cd793aaf941f40344989bf4a09474ad428"
+    },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
       "depth": 0,

@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.developerharon.haron": "https://github.com/developerharon/UnityPackagesDemo.git#upm_branch",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.ide.rider": "3.0.15",
